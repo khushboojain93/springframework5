@@ -8,6 +8,7 @@ public class Springframework5Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Springframework5Application.class, args);
+        System.out.println("********My application started*******");
 	}
 
 }
